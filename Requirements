@@ -1,0 +1,8 @@
+transformers==4.46.3
+datasets
+evaluate
+accelerate
+wandb
+huggingface_hub
+scikit-learn
+torch
